@@ -82,7 +82,7 @@ Interfaces, tooling, and technical product design
 
 ### Contact
 
-[![](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:liam.qtx@icloud.com)
+[![](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:liam@slyver.fr)
 
 ---
 
